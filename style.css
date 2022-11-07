@@ -1,0 +1,280 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+    font-family:  Helvetica Neue,Helvetica,Arial,sans-serif;
+    
+}
+.nav1{
+    background-color: black;
+    height: 50px;
+    text-align: right;
+    padding: 15px;
+    
+    
+    
+}
+
+.animal li {
+    list-style-type: none;
+    margin: 21px;
+    padding: 11px;
+    overflow: hidden;
+   
+    float: left;
+  }
+
+
+.animal li a{
+    display: block;
+    padding: 8px;
+    background-color: transparent;
+    color: white;
+    text-decoration: none;
+    
+}
+.nav1 a{
+    margin-left: -54px;
+    margin-right: 80px;
+    
+    text-decoration: none;
+    color: green;
+    
+}
+.animal{
+    background: #171615;
+    height: 100px;
+    width: 100%;
+}
+.ul animal{
+    display: inline;
+    background-color: blue;
+    
+  }
+.img_header{
+  height:45px;
+    text-align: center;
+ margin-top: 30px;
+ margin-left: 200px;
+ 
+ 
+ 
+}
+.btn1_header{
+    width: 168px;
+    height: 50px;
+    font-size: large;
+    margin-right: 50px;
+    text-align: right;
+    float: right;
+    margin-top: 25px;
+    background-color: green;
+    color: white;
+ 
+}
+
+.img1{
+    text-align: center;
+    background-color: black;
+
+   
+}
+.text{
+    margin-top: 130px;
+    position: absolute;
+    top: 6px;
+    left: 350px;
+    padding:100px;
+    color: white;
+    font-size: large;
+    text-align: left;
+   
+    
+}
+.btn2_header{
+    height: 70px;
+    width: 188px;
+    font-size: large;
+    margin: 50px;
+    background-color: green;
+    color: white;
+
+}
+.cards1{
+    width:100%;
+    background-color: yellow;
+   
+    
+}
+
+.img2 img{
+    width: 100%;
+}
+
+
+/* CARDS WITH BG-IMAGE */
+
+
+.green h1{
+    text-align: center;
+    color: green;
+}
+.green p{
+    text-align: center;
+    color: black;
+}
+
+.green button{
+    width:50px;
+    height: 50px;
+}
+.btn1_cards{
+    float: right;
+    position: relative;
+    top: 175px;
+    right: 24px;
+    background-color: green;
+    
+}
+.btn2_cards{
+    position: relative;
+    top: 170px;
+    right: 0px;
+    left: 20px;
+    background-color: green;
+    
+}
+.button{
+    color: green;
+}
+
+
+.green{
+    background: white;
+    width: 1070px;
+    height: 700px;
+    position: absolute;
+    top:800px;
+    left:400px;
+    
+    
+}
+.red img{
+   width: 100%; 
+}
+
+.yellow{
+    background: yellow;
+    width: 250px;
+    height: 350px;
+    position: absolute;
+    top:50px;
+    margin-top: 90px;
+    left:90px;
+    
+}
+
+.purple{
+    background: purple;
+    width: 250px;
+    height: 350px;
+    position: absolute;
+    top:0px;
+    left:330px;
+    
+}
+
+.aqua{
+    background: aqua;
+    width: 250px;
+    height: 350px;
+    position: absolute;
+    top:0px;
+    left:630px; 
+    
+}
+
+.green img{
+    width: 250px;
+    height: 350px;
+}
+
+/* secondCards WITH BG-IMAGE */
+
+
+/* secondCards WITH BG-IMAGE */
+
+.cont_1{
+    text-align: center;
+}
+
+.cont_2{
+    text-align: center;
+}
+
+.cont3{
+    text-align: center;
+}
+
+.ndpage img
+{
+    width:450px;
+   
+}
+
+
+
+/* 3rd content */
+
+.imageColumn {
+    float: left;
+    width: 270px;
+    position: relative;
+    left:350px;
+    border: 5px solid green;
+    padding: 10px;
+}
+ 
+.hi{
+    background: red;
+    width:100%;
+    height: 300px;
+    
+}
+
+/* FOOTER*/
+
+.links {  
+    background: black;  
+    color: green;  
+    font-size: 15px;  
+    padding: 35px 0;
+
+   }  
+   .links-inner {  
+    max-width: 1100px;  
+    margin: 0 auto;  
+    padding: 0 20px;  
+    display: grid;  
+    grid-template-columns: repeat(6, 1fr);  
+    grid-gap: 10px;  
+    align-items: flex-start;  
+    justify-content: center;  
+   }  
+   .links li {  
+    line-height: 2.8;  
+   }  
+   .links h3{
+    font-size: 15px;
+   }
+
+   .links a{
+    font-size: 12px;
+    text-decoration: none;
+    color: white
+    
+    }
+    .links ul{
+        list-style: none; 
+    }
+
+
