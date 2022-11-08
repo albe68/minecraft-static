@@ -32,6 +32,10 @@
     text-decoration: none;
     
 }
+.animal li a:hover{
+     
+        background-color: green;
+      }
 .nav1 a{
     margin-left: -54px;
     margin-right: 80px;
