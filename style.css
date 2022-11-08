@@ -14,6 +14,18 @@
     
 }
 
+.nav1 a{
+    margin-left: -54px;
+    margin-right: 80px;
+    
+    text-decoration: none;
+    color: green;
+    
+}
+ .nav1 a:hover{
+        color:white
+    }
+
 .animal li {
     list-style-type: none;
     margin: 21px;
@@ -31,6 +43,8 @@
     color: white;
     text-decoration: none;
     font-family: 'noto_sansbold';
+    font-size: 13px;
+
 
     
 }
@@ -38,14 +52,7 @@
      
         background-color: green;
       }
-.nav1 a{
-    margin-left: -54px;
-    margin-right: 80px;
-    
-    text-decoration: none;
-    color: green;
-    
-}
+
 .animal{
     background: #171615;
     height: 100px;
@@ -78,6 +85,11 @@
  
 }
 
+.btn1_header:hover{
+    background-color: #BBBDC2;
+    color: #171615;
+}
+
 .img1{
     text-align: center;
     background-color: black;
@@ -104,6 +116,11 @@
     background-color: green;
     color: white;
 
+}
+
+.btn2_header:hover{
+    background-color: #BBBDC2;
+    color: #171615;
 }
 .cards1{
     width:100%;
@@ -278,6 +295,9 @@
     text-decoration: none;
     color: white
     
+    }
+   .links a:hover{
+        color: green;
     }
     .links ul{
         list-style: none; 
